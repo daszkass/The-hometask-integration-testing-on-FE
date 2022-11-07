@@ -1,4 +1,4 @@
-const {getRectanglePerimeter, getRectangleArea, getRectangleInfo} = require('../js/rectangle');
+import {getRectanglePerimeter, getRectangleArea, getRectangleInfo} from "../js/rectangle.js";
 
 test('Should properly count the rectangle perimeter', () => {
     const rectanglePerimeter = getRectanglePerimeter(15, 8);
