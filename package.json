@@ -1,0 +1,15 @@
+{
+  "name": "hometask-project-set-up",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "index.js",
+  "repository": "git@github.com:daszkass/The-hometask-integration-testing-on-FE.git",
+  "author": "Daria <daszka_s@interia.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
