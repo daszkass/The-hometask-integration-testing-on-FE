@@ -7,6 +7,9 @@
   "author": "Daria <daszka_s@interia.pl>",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.0",
     "jest": "^29.2.2"
   },
   "scripts": {
